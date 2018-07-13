@@ -5,7 +5,7 @@
 # Site
 title: Stephen's blog
 subtitle:
-description:
+description: 不忘初心，方得始终
 keywords:
 author: StephenChen
 language: zh-CN
@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://stephencmz.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
