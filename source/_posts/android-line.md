@@ -54,4 +54,7 @@ categories:
     * 安全
     * 国际化
 
+### 为了方便查看，这里再附上一张脑图：
+![](/images/android/Android知识.png)
+
 Android的知识点很多，完全掌握并非一件容易的事情，做此总结以方便日后查漏补缺。
